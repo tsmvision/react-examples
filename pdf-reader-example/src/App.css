@@ -1,0 +1,17 @@
+.react-pdf__Page__textContent {
+  display: none !important;
+  /* top: 0 !important;
+  left: 0 !important;
+  transform: none !important; */
+}
+
+.react-pdf__Page__annotations {
+  display: none !important;
+}
+
+
+.page1 {
+  padding: 10px;
+  border-bottom: 1px;
+  /* background-color: yellow; */
+}
